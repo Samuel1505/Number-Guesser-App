@@ -4,8 +4,7 @@
 
 # Technologies Used
 1.React.js. <br>
-2.Expres.js. <br>
-3.CSS(styling). <br>
+2.CSS(styling). <br>
 
 # Features in the App;
 
