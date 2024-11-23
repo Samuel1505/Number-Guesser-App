@@ -7,8 +7,9 @@
 2.Expres.js. <br>
 3.CSS(styling). <br>
 
-#Features in the App;
-1. Random Secret Number: The app generates a number between 1 and 100 at the start of the game or on restart.
+# Features in the App;
+
+1.  Random Secret Number: The app generates a number between 1 and 100 at the start of the game or on restart.
 2. User Input: Players enter guesses in a text box.
 3. Feedback: The app provides feedback if the guess is too low, too high, or correct.
 4. Limited Attempts: Players have 10 attempts to guess the correct number.
